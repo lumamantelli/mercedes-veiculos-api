@@ -3,21 +3,21 @@
     {
         "id": 1,
         "imagem": "https://www.disalconsorcio.com.br/blog/wp-content/uploads/2023/01/Toyota-Hilux-GR-S-2024-1.jpg",
-        "nome": "Hilux",
+        "modelo": "Hilux",
         "ano": 2023,
         "preco": 250000
     },
     {
         "id": 2,
         "imagem": "https://t.ctcdn.com.br/-dmq-4LQGj8xJ_5i-XrTNz95ynQ=/650x477/smart/i801951.jpeg",
-        "nome": "Corola",
+        "modelo": "Corola",
         "ano": 2023,
         "preco": 250000
     },
     {
         "id": 3,
         "imagem": "https://uploads.vrum.com.br/2023/05/ecdb8702-chevrolet-nova-s10-midnight-2024-0.jpg",
-        "nome": "S10",
+        "modelo": "S10",
         "ano": 2023,
         "preco": 250000
     }
