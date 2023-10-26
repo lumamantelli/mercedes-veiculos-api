@@ -1,6 +1,10 @@
 {
   "veiculos": [
-
-    
+      {
+        "id": 1,
+        "nome": Hilux,
+        "ano": 2023,
+        "preco": 250000
+      }
   ]
 }
