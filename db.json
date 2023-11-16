@@ -1,52 +1,9 @@
 {
   "veiculos": [
-    {
-        "id": 1,
-        "imagem1": "https://i.ibb.co/LdV8bg7/Whats-App-Image-2023-11-07-at-12-31-03.jpg",
-        "imagem2": "https://i.ibb.co/FxNjPNY/Whats-App-Image-2023-11-07-at-12-31-06-2.jpg",
-        "imagem3": "https://i.ibb.co/Y0dHhLP/Whats-App-Image-2023-11-07-at-12-31-02-1.jpg",
-        "imagem4": "https://i.ibb.co/zVnMMYF/Whats-App-Image-2023-11-07-at-12-31-05.jpg",
-        "imagem5": "https://i.ibb.co/vkGfhsT/Whats-App-Image-2023-11-07-at-12-31-06-1.jpg",
-        "modelo": "Hilux SW4 SRV",
-        "ano": "19/20",
-        "cidade": "Sorriso",
-        "estado": "MT",
-        "motor": "2.7",
-        "km": "57.000",
-        "tracao": "4x2",
-        "cabine": "7 lugares",
-        "combustivel": "flex",
-        "cor": "Branco",
-        "cambio": "Automático",
-        "carroceria": "Não se aplica",
-        "troca": "Sim",
-        "preco": 210000
-    },
-    {
-        "id": 2,
-        "imagem1": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem2": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem3": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem4": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem5": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "modelo": "S10 LTZ",
-        "ano": 2013,
-        "cidade": "Sorriso",
-        "estado": "MT",
-        "motor": "2.8",
-        "km": "157.000",
-        "tracao": "4x4",
-        "cabine": "Dupla",
-        "combustivel": "Diesel",
-        "cor": "Branco",
-        "cambio": "Automático",
-        "carroceria": "Sim",
-        "troca": "Sim",
-        "preco": 118000
-    },
+    
     {
         "id": 3,
-        "imagem1": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
+        "imagem1": "https://i.ibb.co/zP4V9R2/Whats-App-Image-2023-11-16-at-08-24-12.jpg",
         "imagem2": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
         "imagem3": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
         "imagem4": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
@@ -65,28 +22,6 @@
         "carroceria": "Sedan",
         "troca": "Sim",
         "preco": 38000
-    },
-    {
-        "id": 4,
-        "imagem1": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem2": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem3": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem4": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "imagem5": "https://i.ibb.co/Bymxc3d/Whats-App-Image-2023-10-27-at-15-10-25.jpg",
-        "modelo": "Corolla Altis Premium",
-        "ano": 2013,
-        "cidade": "Sorriso",
-        "estado": "MT",
-        "motor": "2.0",
-        "km": "147.000",
-        "tracao": "4x2",
-        "cabine": "Dupla",
-        "combustivel": "Flex",
-        "cor": "Branco",
-        "cambio": "Automático",
-        "carroceria": "Sedan",
-        "troca": "Sim",
-        "preco": 70000
     }
   ]
 }
